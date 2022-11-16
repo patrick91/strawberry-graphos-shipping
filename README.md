@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/vwQzwt)
+
 # Strawberry GraphQL Subgraph Template
 
 This template can be used to quickly create an [Apollo Federation] subgraph with
